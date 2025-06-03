@@ -41,6 +41,9 @@ public class GameMinDTO {
     public String getShortDescription() {
         return shortDescription;
     }
+
+
+    1:28:42
 }
 
 
