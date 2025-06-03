@@ -43,6 +43,7 @@ public class GameMinDTO {
     }
 
 
+    1:28:42
 }
 
 
