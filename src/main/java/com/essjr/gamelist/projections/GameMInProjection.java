@@ -1,4 +1,10 @@
 package com.essjr.gamelist.projections;
 
-public class GameMInProjection {
+public interface GameMInProjection {
+    Long getId();
+    String getTitle();
+    Integer getGameYear();
+    String getImgUrl();
+    String getShortDescription();
+    Integer getPosition();
 }
