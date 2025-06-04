@@ -42,8 +42,6 @@ public class GameMinDTO {
         return shortDescription;
     }
 
-
-    1:28:42
 }
 
 
