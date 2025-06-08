@@ -38,4 +38,9 @@ public class GameService {
         return result.stream().map(x-> new GameMinDTO(x)).toList();
 
     }
+
+    public void delete(Long id){
+        gameRepository.deleteById(id);
+    }
+
 }
